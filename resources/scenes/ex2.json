@@ -1,0 +1,63 @@
+{
+    "scene": "Storm scene",
+    "typeScene": "VIRTUAL",
+    "objects": [
+        {
+            "name": "F16",
+            "type":  "MESH",
+            "objFileName": "://resources/models/f16.obj",
+            "texFileName": "://resources/textures/F16s.bmp",
+            "position": [0.0, 0.0, 0.0],
+            "material": {
+                "type": "lambertian",
+                "ka": [0.2, 0.2, 0.2],
+                "kd": [1.0, 1.0, 1.0],
+                "ks": [0.7, 0.7, 0.7],
+                "shininess": 10.0,
+                "opacity": 1.0
+            }
+        },
+        {
+            "name": "CUBE",
+            "type":  "MESH",
+            "objFileName": "://resources/models/cube.obj",
+            "position": [0.0, 0.0, 0.0],
+            "material": {
+                "type": "lambertian",
+                "ka": [0.8, 0.8, 0.8],
+                "kd": [0.8, 0.6, 0.3],
+                "ks": [0.7, 0.7, 0.7],
+                "shininess": 10.0,
+                "opacity": 1.0
+            }
+        },
+        {
+            "name": "SPHERE0",
+            "type":  "MESH",
+            "objFileName": "://resources/models/sphere0.obj",
+            "position": [0.0, 0.0, 0.0],
+            "material": {
+                "type": "lambertian",
+                "ka": [0.2, 0.2, 0.2],
+                "kd": [0.5, 0.0, 1.0],
+                "ks": [0.7, 0.7, 0.7],
+                "shininess": 10.0,
+                "opacity": 1.0
+            }
+        },
+        {
+            "name": "SPHERE1",
+            "type":  "MESH",
+            "objFileName": "://resources/models/sphere1.obj",
+            "position": [0.0, 0.0, 0.0],
+            "material": {
+                "type": "lambertian",
+                "ka": [0.2, 0.2, 0.2],
+                "kd": [0.4, 1.0, 0.9],
+                "ks": [0.7, 0.7, 0.7],
+                "shininess": 10.0,
+                "opacity": 1.0
+            }
+        }
+    ]
+}

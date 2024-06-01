@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/GPUshaders/fshader1.glsl</file>
+        <file>resources/GPUshaders/vshader1.glsl</file>
+        <file>resources/GPUshaders/fColorShader.glsl</file>
+        <file>resources/GPUshaders/vColorShader.glsl</file> 
+        <file>resources/GPUshaders/fNormalShader.glsl</file>
+        <file>resources/GPUshaders/vNormalShader.glsl</file>   
+        <file>resources/GPUshaders/fPhongShader.glsl</file>
+        <file>resources/GPUshaders/vPhongShader.glsl</file>    
+        <file>resources/GPUshaders/fBlinnPhongShader.glsl</file>
+        <file>resources/GPUshaders/vBlinnPhongShader.glsl</file> 
+        <file>resources/GPUshaders/fGouraudPhongShader.glsl</file>
+        <file>resources/GPUshaders/vGouraudPhongShader.glsl</file>   
+        <file>resources/GPUshaders/fGouraudBlinnPhongShader.glsl</file>
+        <file>resources/GPUshaders/vGouraudBlinnPhongShader.glsl</file> 
+        <file>resources/GPUshaders/fToonShader.glsl</file>
+        <file>resources/GPUshaders/vToonShader.glsl</file>  
+        <file>resources/GPUshaders/fTextureShader.glsl</file>
+        <file>resources/GPUshaders/vTextureShader.glsl</file>
+        <file>resources/GPUshaders/fEjercicio1Shader.glsl</file>
+        <file>resources/GPUshaders/vEjercicio1Shader.glsl</file>
+        <file>resources/scenes/ex1.json</file>
+        <file>resources/scenes/ex2.json</file>
+        <file>resources/GPUshaders/fEjercicio2Shader.glsl</file>
+        <file>resources/GPUshaders/vEjercicio2Shader.glsl</file>
+        <file>resources/models/f16.obj</file>
+        <file>resources/models/cube.obj</file>
+        <file>resources/models/sphere0.obj</file>
+        <file>resources/models/sphere1.obj</file>
+        <file>resources/textures/F16s.bmp</file>
+        <file>resources/assetsGUI/RTXOFF.png</file>
+        <file>resources/assetsGUI/RTXON.png</file>
+        <file>resources/assetsGUI/Background.png</file>
+        <file>resources/assetsGUI/Ia.png</file>
+        <file>resources/assetsGUI/3412784.png</file>
+    </qresource>
+</RCC>
